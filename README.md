@@ -25,10 +25,10 @@ In IP field you must enter your IP address. You can check it here.
 ## Application
 
 [<img src="/images/main.png" align="left"
-width="460" height="900"
+width="440" height="900"
 hspace="10" vspace="10">](/images/main.png)
 [<img src="/images/settings.png" align="left"
-width="460" height="900"
+width="440" height="900"
 hspace="10" vspace="10">](/images/settings.png)
 
 

@@ -25,8 +25,8 @@ In IP field you must enter your IP address. You can check it here.
 ## Application
 
 <p align="center">
-  <img src="/images/main.png" width="460" title="hover text">
-  <img src="/images/settings.png" width="460" alt="accessibility text">
+  <img src="/images/main.png" width="400" title="hover text">
+  <img src="/images/settings.png" width="400" alt="accessibility text">
 </p>
 
 

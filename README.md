@@ -24,12 +24,10 @@ In IP field you must enter your IP address. You can check it here.
 
 ## Application
 
-[<img src="/images/main.png" align="left"
-width="450" height="900"
-hspace="10" vspace="10">](/images/main.png)
-[<img src="/images/settings.png" align="left"
-width="450" height="900"
-hspace="10" vspace="10">](/images/settings.png)
+<p align="center">
+  <img src="/images/main.png" width="460" title="hover text">
+  <img src="/images/settings.png" width="460" alt="accessibility text">
+</p>
 
 
 ## Connection port 

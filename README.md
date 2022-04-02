@@ -9,7 +9,7 @@ It shows the temperature both inside and outside, if the window is open or close
 shows when it rains and make alarm when the PIR sensor senses move. 
 I made the application on the android to display all the data.
 
-## How work
+## How working
 
 I will explain how the application works. It's shows all data from your home.
 You can click on settings icon to edit your IP address and turn on or off alarm.
@@ -23,18 +23,19 @@ In IP field you must enter your IP address. You can check it here.
 <img src="/images/arduino.png" width="500px">
 
 ## Application
-<img src="/images/main"
+
 [<img src="/images/main.png" align="left"
-width="400"
+width="460" height="900"
 hspace="10" vspace="10">](/images/main.png)
 [<img src="/images/settings.png" align="left"
-width="400"
+width="460" height="900"
 hspace="10" vspace="10">](/images/settings.png)
+
 
 ## Connection port 
 
 You need to open port on your router. 
-Open your router configuration and set arduino ip and open port 80. You can see it on image above.
+Open your router configuration and set arduino ip and open port 80. You can see it on image below.
 
 <img src="/images/server.png" width="500px">
 

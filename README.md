@@ -2,7 +2,7 @@
 <img src="app/src/main/ic_launcher-playstore.png" align="left"
 width="200" hspace="10" vspace="10">
 
-## For becoder-hac
+## For becoder-hack
 
 I will show you how to build your own smart home. 
 It shows the temperature both inside and outside, if the window is open or closed, 
